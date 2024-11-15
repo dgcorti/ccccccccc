@@ -1,0 +1,7 @@
+inicio
+  leer(a);
+  bb := a + 3;
+  cc :=bb  + 31;
+  dd := 321 + 432;
+  escribir(cc, dd);
+fin
